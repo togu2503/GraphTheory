@@ -63,6 +63,7 @@ int main()
 	g.AddEdge(3, 5);
 	g.AddEdge(3, 8);
 	g.AddEdge(4, 5);
+	g.AddEdge(6, 7);
 
 	std::cout<<g.CountPartsOfGraph();
 

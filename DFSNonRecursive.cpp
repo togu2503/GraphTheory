@@ -69,6 +69,7 @@ int main()
 	g.AddEdge(3, 8);
 	g.AddEdge(4, 5);
 	g.AddEdge(5, 6);
+	g.AddEdge(6, 7);
 
 	cout << "DFS (starting from node 0) \n";
 
